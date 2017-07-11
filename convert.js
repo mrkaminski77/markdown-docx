@@ -1,7 +1,7 @@
 // make sure the path to the node module is correct
 fs = require('fs')
 
-var md = require('C:\\Users\\dleyden\\node_modules\\markdown-it')({
+var md = require('C:\\Users\\user\\node_modules\\markdown-it')({
   html: true
 });
 
